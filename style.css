@@ -2,6 +2,7 @@ html, body {
   color: #dcdcdc !important;
   background-image: none !important;
   background-color: #292929 !important;
+  overflow: hidden;
 }
 
 html::before, body::before {
